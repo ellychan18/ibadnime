@@ -144,7 +144,7 @@ const Navbar = () => {
                                 </div>
                                 <div>
                                     <a href="#" className="text-xl md:text-2xl ml-[2px] font-bold text-kumanime">
-                                        Kumanime
+                                        IbadNime
                                     </a>
                                 </div>
                                 
