@@ -9,7 +9,7 @@ const DetailCard = (props) => {
             <div className="md:col-span-5 text-center md:text-left">
                 <a href={`/anime/${slug}`} className="text-xl md:text-2xl font-semibold">{title}</a>
                 <p className="text-sm py-3">{synopsis || "No synopsis available" }</p>
-                <p className="mt-5 text-sm md:text-base"><span className="font-semibold">KUMANIME.FUN</span> merupakan situs tempat nonton anime <span className="font-semibold">{title}</span> subtitle indonesia secara gratis</p>
+                <p className="mt-5 text-sm md:text-base"><span className="font-semibold">IBADNIME.VERCEL.APP</span> merupakan situs tempat nonton anime <span className="font-semibold">{title}</span> subtitle indonesia secara gratis</p>
             </div>
         </div>
     )
