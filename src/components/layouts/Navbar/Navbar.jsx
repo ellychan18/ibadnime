@@ -44,7 +44,7 @@ const Navbar = () => {
 
                             <div>
                                 <a href="/" className="text-xl md:text-2xl font-bold text-kumanime">
-                                    Kumanime
+                                    IbadNime
                                 </a>
                             </div>
                         </div>
